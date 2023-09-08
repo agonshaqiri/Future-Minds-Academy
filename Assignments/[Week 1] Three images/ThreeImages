@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+        <h1>
+            Three Images
+        </h1>
+        <p>
+            <img src="cat.jpg" alt="cat" width="200" height="200">
+            <img src="cat.jpg" alt="cat" width="200" height="200">
+            <img src="cat.jpg" alt="cat" width="200" height="200">
+        </p>
+        <p>
+            <img src="cat.jpg" alt="cat" width="200" height="200">
+            <br>
+            <img src="cat.jpg" alt="cat" width="200" height="200">
+            <br>
+            <img src="cat.jpg" alt="cat" width="200" height="200">
+            <br>
+        </p>
+	
+	</body>
+</html>
